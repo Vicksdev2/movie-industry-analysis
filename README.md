@@ -3,8 +3,9 @@
 
 
 <p align="center">
-  <img src="istockphoto-892375260-612x612.jpg" width="1400" height="294" alt="film_money">
+  <img src="./public//Dia-del-cine-1.jpg" width="1400" height="294" alt="film_money">
 </p>
+
 
 <br>
 
@@ -25,20 +26,30 @@ This suggests that financial investment in production and marketing is the most 
 
 
 <br>
-## 📷 
+
 <h3> Budget vs Gross</h3>
 
-![Budget vs Gross](budget_vs_gross_analysis.png)
+![Budget vs Gross](public/budget_vs_gross_analysis.png)
 
 <br>
 <h3> Correlation Matrix</h3>
 
-![Correlation matrix](Correlation_matrix.png)
+![Correlation matrix](public/Correlation_matrix.png)
 
+<br>
+<h3> top filming countries</h3>
+
+![Top countries](public/top_filming_countries.png)
+
+<br>
+<h3> Distribution of the films budget</h3>
+
+![Budget](public/Distribution_of_the_Film_Budget.png)
 
 
 <br>
-## 🛠️ Technologies Used
+🛠️ Technologies Used
+
 *   **Python** (3.x)
 *   **Pandas** (Data cleaning and manipulation)
 *   **Seaborn / Matplotlib** (Data visualization)
@@ -46,5 +57,5 @@ This suggests that financial investment in production and marketing is the most 
 
 
 <br>
-## ✒️ Author
+✒️ Author
 Victoria
